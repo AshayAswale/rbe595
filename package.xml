@@ -50,8 +50,11 @@
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>tough_controller_interface</build_depend>
+  <build_depend>tough_perception_common</build_depend>
   <build_export_depend>tough_controller_interface</build_export_depend>
+  <build_export_depend>tough_perception_common</build_export_depend>
   <exec_depend>tough_controller_interface</exec_depend>
+  <exec_depend>tough_perception_common</exec_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
